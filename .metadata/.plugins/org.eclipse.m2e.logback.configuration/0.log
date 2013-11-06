@@ -1,0 +1,70 @@
+2013-11-06 01:29:32,052 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-egit does not contain lifecycle mapping metadata
+2013-11-06 01:29:32,099 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subversive does not contain lifecycle mapping metadata
+2013-11-06 01:29:32,101 [ModalContext] WARN  o.e.m.i.discovery.MavenDiscovery - CatalogItem org.eclipse.m2e.discovery.lifecyclemapping.m2e-subclipse does not contain lifecycle mapping metadata
+2013-11-06 01:29:41,680 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.spinscale.dropwizard:dropwizard-jobs:1.0-SNAPSHOT @ C:\cmpe273-assignment2-Final\lib\dropwizard-jobs\pom.xml.
+2013-11-06 01:29:46,084 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.sjsu.cmpe:library:0.0.1-SNAPSHOT @ C:\cmpe273-assignment2-Final\library\pom.xml.
+2013-11-06 01:29:47,483 [Worker-6] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.sjsu.cmpe:procurement-service:0.0.1-SNAPSHOT @ C:\cmpe273-assignment2-Final\procurement-service\pom.xml.
+2013-11-06 01:29:53,456 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.spinscale.dropwizard:dropwizard-jobs:1.0-SNAPSHOT @ C:\cmpe273-assignment2-Final\lib\dropwizard-jobs\pom.xml.
+2013-11-06 01:29:53,456 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /library/src/main/java
+2013-11-06 01:29:53,456 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /library/src/main/resources
+2013-11-06 01:29:53,477 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /library/src/test/java
+2013-11-06 01:29:53,856 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dropwizard-jobs/src/main/java
+2013-11-06 01:29:53,864 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /dropwizard-jobs/src/test/java
+2013-11-06 01:29:54,772 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.sjsu.cmpe:library:0.0.1-SNAPSHOT @ C:\cmpe273-assignment2-Final\library\pom.xml.
+2013-11-06 01:29:54,966 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /procurement-service/src/main/java
+2013-11-06 01:29:54,966 [Worker-6] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /procurement-service/src/test/java
+2013-11-06 01:29:55,453 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.sjsu.cmpe:procurement-service:0.0.1-SNAPSHOT @ C:\cmpe273-assignment2-Final\procurement-service\pom.xml.
+2013-11-06 01:29:55,492 [Worker-6] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Project import completed 15 sec
+2013-11-06 01:29:56,203 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2013-11-06 01:29:56,205 [Worker-0] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 0 sec
+2013-11-06 01:29:57,331 [Worker-5] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.spinscale.dropwizard:dropwizard-jobs:1.0-SNAPSHOT @ C:\cmpe273-assignment2-Final\lib\dropwizard-jobs\pom.xml.
+2013-11-06 01:29:57,799 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.spinscale.dropwizard:dropwizard-jobs:1.0-SNAPSHOT @ C:\cmpe273-assignment2-Final\lib\dropwizard-jobs\pom.xml.
+2013-11-06 01:29:59,203 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:29:59,203 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\lib\dropwizard-jobs\src\main\resources
+2013-11-06 01:29:59,205 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:29:59,206 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\lib\dropwizard-jobs\src\test\resources
+2013-11-06 01:29:59,843 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.sjsu.cmpe:library:0.0.1-SNAPSHOT @ C:\cmpe273-assignment2-Final\library\pom.xml.
+2013-11-06 01:30:01,343 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:30:01,354 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 3 resources
+2013-11-06 01:30:01,372 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:30:01,372 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\library\src\test\resources
+2013-11-06 01:30:01,853 [Worker-2] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.sjsu.cmpe:procurement-service:0.0.1-SNAPSHOT @ C:\cmpe273-assignment2-Final\procurement-service\pom.xml.
+2013-11-06 01:30:02,897 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:30:02,897 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\procurement-service\src\main\resources
+2013-11-06 01:30:02,899 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:30:02,900 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\procurement-service\src\test\resources
+2013-11-06 01:30:03,363 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: de.spinscale.dropwizard:dropwizard-jobs:1.0-SNAPSHOT @ C:\cmpe273-assignment2-Final\lib\dropwizard-jobs\pom.xml.
+2013-11-06 01:30:03,990 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.sjsu.cmpe:library:0.0.1-SNAPSHOT @ C:\cmpe273-assignment2-Final\library\pom.xml.
+2013-11-06 01:30:04,429 [Worker-8] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: edu.sjsu.cmpe:procurement-service:0.0.1-SNAPSHOT @ C:\cmpe273-assignment2-Final\procurement-service\pom.xml.
+2013-11-06 01:30:05,422 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:30:05,422 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\lib\dropwizard-jobs\src\main\resources
+2013-11-06 01:30:05,424 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:30:05,425 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\lib\dropwizard-jobs\src\test\resources
+2013-11-06 01:30:05,445 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:30:05,447 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-06 01:30:05,450 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:30:05,450 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\library\src\test\resources
+2013-11-06 01:30:05,468 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:30:05,468 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\procurement-service\src\main\resources
+2013-11-06 01:30:05,478 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:30:05,478 [Worker-2] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\procurement-service\src\test\resources
+2013-11-06 01:32:10,999 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:32:10,999 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-06 01:32:11,001 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:32:11,001 [Worker-3] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\library\src\test\resources
+2013-11-06 01:32:32,586 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:32:32,587 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2013-11-06 01:32:32,591 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:32:32,591 [Worker-7] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\library\src\test\resources
+2013-11-06 01:33:36,933 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:33:36,933 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\procurement-service\src\main\resources
+2013-11-06 01:33:36,934 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:33:36,935 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\procurement-service\src\test\resources
+2013-11-06 01:35:23,126 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:35:23,127 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\procurement-service\src\main\resources
+2013-11-06 01:35:23,130 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:35:23,130 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\procurement-service\src\test\resources
+2013-11-06 01:42:02,104 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:42:02,104 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\procurement-service\src\main\resources
+2013-11-06 01:42:02,105 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2013-11-06 01:42:02,105 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\cmpe273-assignment2-Final\procurement-service\src\test\resources
